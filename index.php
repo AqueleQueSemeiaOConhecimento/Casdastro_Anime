@@ -28,16 +28,16 @@
             <label for="genero">Generos do Anime</label>
             <br>
 
-            <label for="opcao1"> Hentai
-                <input type="checkbox" id="opcao1" name="genero[]" value="Hentai">
+            <label for="opcao1"> Artes Marciais
+                <input type="checkbox" id="opcao1" name="genero[]" value="1">
             </label>
             <br>
-            <label for="opcao2"> Ação
-                <input type="checkbox" id="opcao2" name="genero[]" value="Ação">
+            <label for="opcao2"> Aventura
+                <input type="checkbox" id="opcao2" name="genero[]" value="2">
             </label>
             <br>
-            <label for="opcao3"> Aventura
-                <input type="checkbox" id="opcao3" name="genero[]" value="Aventura">
+            <label for="opcao3"> Comédia
+                <input type="checkbox" id="opcao3" name="genero[]" value="3">
             </label>
 
             <input type="submit" value="Enviar">
